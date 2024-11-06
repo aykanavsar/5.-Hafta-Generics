@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Hafta Generics Class", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Hafta Collections", "5. Hafta Collections\5. Hafta Collections.csproj", "{DD4708B0-2522-4A11-A8BE-750AE01C9E11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Hafta Pratic Array", "5. Hafta Pratic Array\5. Hafta Pratic Array.csproj", "{F849DDF8-073B-4AA7-AF97-0EDC51E2E5D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Hafta Pratic Array", "5. Hafta Pratic Array\5. Hafta Pratic Array.csproj", "{F849DDF8-073B-4AA7-AF97-0EDC51E2E5D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Hafta List", "5. Hafta List\5. Hafta List.csproj", "{9E040728-1DE2-4A75-A061-73CAE1CF3EE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F849DDF8-073B-4AA7-AF97-0EDC51E2E5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F849DDF8-073B-4AA7-AF97-0EDC51E2E5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F849DDF8-073B-4AA7-AF97-0EDC51E2E5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E040728-1DE2-4A75-A061-73CAE1CF3EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E040728-1DE2-4A75-A061-73CAE1CF3EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E040728-1DE2-4A75-A061-73CAE1CF3EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E040728-1DE2-4A75-A061-73CAE1CF3EE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
